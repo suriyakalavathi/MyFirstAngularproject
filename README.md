@@ -1,2 +1,2 @@
 # MyFirstAngularproject
-My own code will confidence in learning
+My own code will give confidence in learning
